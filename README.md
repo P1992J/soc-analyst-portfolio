@@ -126,13 +126,7 @@ including suspicious URLs, sender spoofing, and malicious content patterns.
 
 ---
 
-## Next Projects
 
-- Wireshark PCAP analysis — Blue Team Labs Online
-- Azure AD cloud lab — user management and MFA configuration
-- MITRE ATT&CK threat mapping — Waikato DHB 2021 NZ attack
-- NZ Privacy Act 2020 compliance checklist
-- AI phishing detection — NLP vs rule-based classifier comparison
 
 ---
 
